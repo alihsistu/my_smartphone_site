@@ -1,0 +1,17 @@
+body {
+    font-family: "ubuntu", "times new roman";
+    background-image: url(bg.jpg)
+    
+}
+
+h1 {
+    font-size: 50px;
+}
+
+/* img {
+    float: right;
+} */
+
+img.center {
+    text-align: center;
+}

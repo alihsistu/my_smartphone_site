@@ -1,0 +1,14 @@
+body {
+    font-family: "ubuntu", "times new roman";
+    background-image: url(bg.jpg)
+
+    
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.intro {
+    font-size: 20px;
+}
